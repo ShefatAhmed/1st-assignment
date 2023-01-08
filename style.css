@@ -1,0 +1,145 @@
+/* banner */
+.banner-cotent{
+    position: relative; 
+ }
+ .banner-cotent1{
+     position: absolute;
+     top: 30%;
+     left: 880px;
+     text-align: right;
+     font-size: 15pt;
+ }
+
+.btn-banner{
+    padding: 15px 30px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+/* person */
+.person{
+    margin-top: 100px;
+    margin-bottom: 800px;
+    display: flex;
+}
+.person-img{
+    position: absolute;
+    left: 200px;
+    background: rgba(255, 166, 0, 0.287);
+    border-radius: 50%;
+}
+.failure-person{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 950px;
+    top: 1050px;
+    text-align: right;
+    font-size: 15pt;
+}
+
+/* my plan */
+.cotainer{
+    height: 299.96px;
+    margin-left: 230px;
+    margin-top: 230px;
+    margin-bottom: 200px;
+    width:1141px;
+    }
+.plan-container{
+    position:relative;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    }
+.my-plan-title{
+    margin-left: 520px;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+.plan-title{
+    font-weight: bold;
+    font-size: 30px;
+}
+.plan-description{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/* gradient-pic */
+
+.gradient{
+    position: relative; 
+    width: 1140px;
+    height: 300px;
+    left: 230px;  
+}
+.top-gradient{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+}
+.gra-ba{
+    position: absolute;
+    left: 80px;
+    top: 20px;
+}
+#gra-hid{
+    color: white;
+    font-size: 30pt;
+}
+.btn-gra{
+    padding: 15px 40px;
+    color: rgb(255, 0, 0);
+    background: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+/* footer */
+.bottom-last{
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    right: 0px;
+    left: 0px;
+    top: 2800.26px;
+    background: #151414;
+    
+}
+.last-conten01{
+    color: white;
+    margin-left: 230px;
+    margin-top: 130px;
+    font-size: 15pt;
+}
+.last-conten00{
+    position: absolute;
+    color: white;
+    right: 230px;
+    top: 130px;
+    font-size: 15pt;
+}
+#email{
+    background-color: #151414;
+    color: white;
+    width: 250px;
+    height: 40px;
+    border: white;
+    border-width: 500px;
+    border-radius: 6px;
+}
+.btn-1{
+    margin-top: 18px;
+    background-color: white;
+    color: orangered;
+    width: 80px;
+    height: 40px;
+    border-radius: 6px;   
+}
+/* end */
